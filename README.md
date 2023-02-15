@@ -12,5 +12,6 @@ Após quatro anos, iniciei na faculdade e me formei em ciências contábeis , on
 Durante a pandemia, despertei o interesse na área de tecnologia e iniciei a minha transição de carreira. Estou atualmente focado no aprendizado e em oportunidades na área de tecnologia, estou estudando desenvolvimento web na Trybe.
 
 
+Email : Leonardo_Brindeiro@yahoo.com.br
 
 
