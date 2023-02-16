@@ -14,4 +14,8 @@ Durante a pandemia, despertei o interesse na área de tecnologia e iniciei a min
 
 Email : Leonardo_Brindeiro@yahoo.com.br
 
+[![LinkedIn Badge](https://img.shields.io/badge/-[Texto do badge]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/leonardobrindeiro/])]([https://www.linkedin.com/in/leonardobrindeiro/])
+
+<a href="[Link perfil no LinkedIn]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
