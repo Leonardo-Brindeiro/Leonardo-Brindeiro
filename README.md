@@ -14,7 +14,7 @@ Durante a pandemia, despertei o interesse na área de tecnologia e iniciei a min
 
 Desenvolvimento em:
 
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
 Email : Leonardo_Brindeiro@yahoo.com.br
