@@ -12,9 +12,9 @@ Após quatro anos, iniciei na faculdade e me formei em ciências contábeis , on
 Durante a pandemia, despertei o interesse na área de tecnologia e iniciei a minha transição de carreira. Estou atualmente focado no aprendizado e em oportunidades na área de tecnologia, estou estudando desenvolvimento web na Trybe.
 
 
-Desenvolvimento em:
+Desenvolvimentos:
 
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)[MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 Email : Leonardo_Brindeiro@yahoo.com.br
