@@ -1,5 +1,5 @@
 <h1 align="center">I will talk a little about me!!!
-<h3>Hello! I'm Leonardo Brindeiro Vidal and I am thrilled to introduce myself as a Full Stack Developer. I completed my education at Trybe, where I honed my skills and passion for creating innovative and dynamic applications.</h3>
+<h3>I'm Leonardo Brindeiro Vidal and I am thrilled to introduce myself as a Full Stack Developer. I completed my education at Trybe, where I honed my skills and passion for creating innovative and dynamic applications.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardo-brindeiro&label=Profile%20views&color=0e75b6&style=flat" alt="leonardo-brindeiro" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
