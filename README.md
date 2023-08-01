@@ -1,5 +1,5 @@
 <h1 align="center">I will talk a little about me!!!
-<h3>Hello! I'm Leonardo Brindeiro Vidal 🌱 Web Development Student at Trybe With more than 15 years of experience in accounting and customer service, I started as an army soldier, initially I worked in customer service in the administrative part. After four years, I started college and graduated in accounting, where I worked for many years in the area, performing launches, reconciliations in general, customer service and closing. During the pandemic, I sparked an interest in technology and started my career transition. I'm currently focused on learning and technology opportunities, I'm studying web development at Trybe. Developments:</h3>
+<h3>Hello! I'm Leonardo Brindeiro Vidal and I am thrilled to introduce myself as a Full Stack Developer. I completed my education at Trybe, where I honed my skills and passion for creating innovative and dynamic applications.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardo-brindeiro&label=Profile%20views&color=0e75b6&style=flat" alt="leonardo-brindeiro" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
